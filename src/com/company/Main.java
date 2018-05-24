@@ -28,7 +28,7 @@ public class Main {
             System.out.println(activeLine);
 
             if (Pattern.matches("/block01/p", activeLine)) {  // doesn't work wight now. Something wrong with Pattern-library-use
-                System.out.println("HITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT!");
+                System.out.println("HITTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT!");
                 blocks[i] = activeLine.toString();
                 i++;
             }
