@@ -1,5 +1,4 @@
 
+#Stops git from tracking changes on Sudokus for testing 
 \sudoku storage\solved
 \sudoku storage\to-solve
-
-first_file.txt
